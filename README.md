@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RebeccaMimms
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... Power automate 
+- 💞️ I’m looking to collaborate on ... collaboration tools
+- 📫 How to reach me ... Rebecca@RainsManagement.com
